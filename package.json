@@ -42,7 +42,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib": "https://github.com/viacoin/viacore-lib",
+    "viacore-lib": "https://github.com/viacoin/viacore-lib",
     "unorm": "^1.3.3"
   }
 }
