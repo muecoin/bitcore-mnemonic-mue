@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/viacoin/viacore-mnemonic.git"
+    "url": "https://github.com/muecoin/bitcore-mnemonic-mue.git"
   },
   "keywords": [
     "bitcoin",
@@ -35,14 +35,14 @@
   "license": "MIT",
   "devDependencies": {
     "assert": "^1.1.2",
-    "viacore-build": "git://github.com/viacoin/viacore-build.git",
+    "bitcore-build-mue": "git://github.com/muecoin/bitcore-build-mue.git",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "viacore-lib": "https://github.com/viacoin/viacore-lib",
+    "bitcore-lib-mue2": "https://github.com/muecoin/bitcore-lib-mue2",
     "unorm": "^1.3.3"
   }
 }
