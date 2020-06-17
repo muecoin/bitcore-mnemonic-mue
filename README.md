@@ -1,11 +1,11 @@
-BIP39 Mnemonics for viacore
+BIP39 Mnemonics for MonetaryUnit
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-mnemonic)
-[![Build Status](https://img.shields.io/travis/bitpay/bitcore-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/viacoin/viacore-mnemonic)
+[![Build Status](https://img.shields.io/travis/bitpay/bitcore-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/muecoin/bitcore-mnemonic-mue)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-mnemonic.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-mnemonic)
 
-A module for [viacore](https://github.com/viacoin/viacore) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
+A module for [MonetaryUnit](https://github.com/muecoin/MUE) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ var xpriv = code.toHDPrivateKey();
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/viacoin/viaore/blob/master/CONTRIBUTING.md) on the main viacore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/muecoin/MUE/blob/master/CONTRIBUTING.md) on the main MonetaryUnit repo for information about how to contribute.
 
 ## License
 
