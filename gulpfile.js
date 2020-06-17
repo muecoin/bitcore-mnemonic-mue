@@ -1,6 +1,6 @@
 'use strict';
 
-var gulp_bitcore = require('viacore-build');
+var gulp_bitcore = require('bitcore-build-mue');
 
 gulp_bitcore('mnemonic');
 
